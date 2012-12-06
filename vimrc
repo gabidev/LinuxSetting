@@ -18,7 +18,3 @@ set ignorecase
 set showmatch
 set noexpandtab
 set nu
-ca げ q
-ca じ w
-ca じげ wq
-ca げけ qa
